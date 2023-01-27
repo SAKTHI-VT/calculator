@@ -24,7 +24,7 @@
     width: 55px;
     height: 55px;
     border-radius: 15px;
-    box-shadow: -8px -8px 15px rgba(255,255,255,0.1),5px 5px 15px rgba(0,0,0,0.2);
+    box-shadow: -8px -8px 15px lightskyblue,5px 5px 15px lightskyblue;
     background: transparent;
     font-size: 20px;
     color: black;
